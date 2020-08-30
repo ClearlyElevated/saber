@@ -2,8 +2,8 @@ theme: minima
 
 siteConfig:
   url: https://clearlyelevated.github.io/saber/
-  author: Author of This Site
-  email: author@your-domain.com
+  author: ClearlyElevated
+  email: admin@lutu.dev
   description: Write an awesome description for your new site here. You can edit this line in saber-config.yml. It will appear in your document head meta (for Google search results) site description.
 
 themeConfig:
@@ -13,8 +13,8 @@ themeConfig:
     - text: About
       link: /about.html
   social:
-    twitter: saber_land
-    github: egoist
+    twitter: jewhefner_
+    github: clearlyelevated
     rss: true
 
 plugins:
